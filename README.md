@@ -1,1 +1,3 @@
 # tic-tac-toe
+Welcome to the Tic Tac Toe project! This is a classic game implemented in Python that allows two players to compete against each other on a 3x3 grid. The game features a simple text-based interface and provides an intuitive way to play Tic Tac Toe directly from the command line. Players take turns marking spaces on the grid with 'X' and 'O', aiming to be the first to align three of their symbols horizontally, vertically, or diagonally. This project serves as an excellent introduction to basic Python programming concepts, such as functions, loops, and conditionals. Feel free to explore the code, modify it to add new features, or enhance the game with a graphical user interface!
+
